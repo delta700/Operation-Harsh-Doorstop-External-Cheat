@@ -102,7 +102,7 @@ bool main()
 			Write<float>(ProcessHandle, PlayerCameraManager + 0x238 + 0x4, 160);
 
 		if (Settings::SpeedHackAndNoRecoil)
-			Write<float>(ProcessHandle, LocalPawn + 0x98, 6); //CustomTimeDilation
+			Write<float>(ProcessHandle, LocalPawn + 0x98, 10); //CustomTimeDilation
 
 		if (Settings::Fly)
 		{
