@@ -2,7 +2,7 @@
 
 /*
 *		Credit: https://github.com/Mokobake/TPSShootingGame-Cheat, https://github.com/Mokobake/Fortnite-EZ-No-Recoil
-*                        SDK Dump https://github.com/Encryqed/Dumper-7
+*                       SDK Dump https://github.com/Encryqed/Dumper-7
 *			Uworld Dump https://www.unknowncheats.me/forum/unreal-engine-4-a/570218-ue-multitool-class-inspector-sdk-dumper-fn-logger.html
 *
 *		Author:  hxxven https://github.com/ReadPhysicalMemory
