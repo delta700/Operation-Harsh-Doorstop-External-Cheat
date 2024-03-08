@@ -2,7 +2,7 @@
 Simple Operation: Harsh Doorstop External Cheat(Exploit Only)
 
 # Usage 
-1 Open .Sln
+1 Open .sln
 2 Change to Debug to Release
 3 Build (Ctrl + B)
 4 Open x64 Release
