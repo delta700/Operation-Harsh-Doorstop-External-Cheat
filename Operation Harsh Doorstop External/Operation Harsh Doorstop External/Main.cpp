@@ -8,11 +8,11 @@
 * Author: Hxxven https://github.com/hxxven10
 */
 
-inline namespace Settings
+namespace Settings
 {
-	inline bool FovChanger = false;
-	inline bool SpeedHackAndNoRecoil = false;
-	inline bool Fly = false;
+	bool FovChanger = false;
+	bool SpeedHackAndNoRecoil = false;
+	bool Fly = false;
 }
 
 inline void SettingsThread()
