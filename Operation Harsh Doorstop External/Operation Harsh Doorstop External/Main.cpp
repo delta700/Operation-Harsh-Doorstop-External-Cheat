@@ -69,11 +69,11 @@ auto main() -> bool //UDMEME
 	while (true)
 	if (FindWindowA("UnrealWindow", "Operation: Harsh Doorstop  ")) break;
 
-	system("cls");
+	system("Cls");
 	printf("Operation Harsh Doorstop Found\n");
 	Sleep(500);
 
-	system("cls");
+	system("Cls");
 	ProcessId = GetProcessId(L"HarshDoorstop-Win64-Shipping.exe");
 	ProcessHandle = GetProcessHandle(ProcessId);
 	BaseAddress = GetBaseAddress(L"HarshDoorstop-Win64-Shipping.exe", ProcessId);
