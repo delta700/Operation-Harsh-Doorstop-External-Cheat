@@ -5,7 +5,7 @@
 * SDK Dump https://github.com/Encryqed/Dumper-7
 * Uworld Dump https://www.unknowncheats.me/forum/unreal-engine-4-a/570218-ue-multitool-class-inspector-sdk-dumper-fn-logger.html
 *
-* Author: Hxxven https://github.com/hxxven10
+* Author: Delta https://github.com/delta700
 */
 
 namespace Settings
